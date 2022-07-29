@@ -1,0 +1,15 @@
+[
+  {
+    "name": "lolzcipher",
+    "assets": {
+        "icon": "/assets/lolzcipher/Icon.png",
+        "banner": "/assets/lolzcipher/Banner.png"
+    },
+    "version": "1.132638",
+    "description": "E2EE Plugin for BetterDiscord",
+    "download": null,
+    "hashType": 36,
+    "hash": "7mpj",
+    "tags": "encryption, api, qof,"
+  }
+]
