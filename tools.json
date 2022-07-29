@@ -15,8 +15,8 @@
   {
     "name": "Placeholder",
     "assets": {
-        "icon": "/assets/placeholder/Icon.png",
-        "banner": "/assets/placeholder/Banner.png"
+        "icon": "/assets/placeholders/Icon.png",
+        "banner": "/assets/placeholders/Banner.png"
     },
     "version": "1.0",
     "description": "This is a Placeholder Item. To debug the Shop",
