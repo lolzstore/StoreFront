@@ -8,6 +8,7 @@
     "version": "1.132638",
     "description": "E2EE Plugin for BetterDiscord",
     "download": null,
+    "file":"{BdPath}/LolzCipher.plugin.js",
     "hashType": 36,
     "hash": "7mpj",
     "tags": "encryption, api, qof"
@@ -21,6 +22,7 @@
     "version": "1.0",
     "description": "This is a Placeholder Item. To debug the Shop",
     "download": null,
+    "file": null,
     "hashType": 36,
     "hash": "7mpj",
     "tags": "placeholder"
