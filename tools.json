@@ -9,8 +9,8 @@
     "description": "E2EE Plugin for BetterDiscord",
     "download": null,
     "file":"{BdPath}/LolzCipher.plugin.js",
-    "hashType": 36,
-    "hash": "1gg1d",
+    "hashType": 18,
+    "hash": "1feed",
     "tags": "encryption, api, qof"
   },
   {
